@@ -3,6 +3,10 @@
   "dark": true,
   "author": "Cyberquarks",
   "editorScheme": "/Enki_Theme.xml",
+  "colors": {
+    "accent": "#1E1E25",
+    "border": "#1E1E25"
+  },
   "ui": {
     "*": {
       "background": "#16161B",
@@ -30,6 +34,7 @@
       "inactiveColoredFileBackground": "#00000000",
       "borderColor":"#1E1E25"
     },
+    "SidePanel.background" : "#19191F",
     "Panel": {
       "background": "#19191F",
       "foreground": "#5B5D6D",
@@ -46,14 +51,12 @@
         "borderColor":"#1E1E25"
       }
     },
-    "Window.border": "4,4,4,4,1E1E25",
     "Component": {
       "focusWidth": "1",
       "focusColor": "#484A58",
       "focusedBorderColor": "#484A58",
       "borderColor": "#1E1E25"
     },
-
     "Button": {
       "default": {
         "startBackground": "#404F76",
@@ -67,6 +70,11 @@
       "focusedBorderColor": "#1E1E25",
       "disabledBorderColor": "#1E1E25",
       "borderColor": "#1E1E25"
-    }
+    },
+    "Window.border": "0,0,0,0,#1E1E25",
+    "Borders.color": "#1E1E25",
+    "Borders.ContrastBorderColor": "#1E1E25",
+    "Menu.background": "#16161B",
+    "Menu.disabledBackground": "#16161B"
   }
 }
