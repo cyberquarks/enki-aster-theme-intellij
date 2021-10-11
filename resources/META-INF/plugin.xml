@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.github.cyberquarks.intellij.theme.enki</id>
-  <name>Enki Theme</name>
-  <version>0.1</version>
+  <name>Enki Aster Theme</name>
+  <version>0.1.1</version>
   <vendor email="" url="https://github.com/cyberquarks">Cyberquarks</vendor>
 
   <description><![CDATA[
