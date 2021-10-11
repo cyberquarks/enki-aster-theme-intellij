@@ -1,0 +1,72 @@
+{
+  "name": "Enki Theme",
+  "dark": true,
+  "author": "Cyberquarks",
+  "editorScheme": "/Enki_Theme.xml",
+  "ui": {
+    "*": {
+      "background": "#16161B",
+      "foreground": "#5B5D6D",
+      "selectionBackground": "#20222C",
+      "selectionForeground": "#5B5D6D",
+      "borderColor":"#1E1E25",
+      "disabledBorderColor": "#1E1E25",
+      "focusColor": "#1E1E25",
+      "focusedBorderColor": "#1E1E25",
+      "hoverBorderColor": "#1E1E25",
+      "pressedBorderColor": "#1E1E25",
+      "separatorColor": "#1E1E25",
+      "lineSeparatorColor": "#1E1E25"
+    },
+    "EditorTabs": {
+      "selectedForeground": "#ACB0D0",
+      "selectedBackground": "#ACB0D0",
+      "inactiveMaskColor": "#16161B",
+
+      "underlineColor": "#ACB0D0",
+      "underlineHeight": 2,
+
+      "underlinedTabBackground": "#16161B",
+      "inactiveColoredFileBackground": "#00000000",
+      "borderColor":"#1E1E25"
+    },
+    "Panel": {
+      "background": "#19191F",
+      "foreground": "#5B5D6D",
+      "borderColor":"#1E1E25",
+      "focusedBorderColor": "#1E1E25",
+      "hoverBorderColor": "#1E1E25",
+      "pressedBorderColor": "#1E1E25"
+    },
+    "StatusBar.borderColor": "#1E1E25",
+    "ToolWindow": {
+      "Header": {
+        "background": "#16161B",
+        "inactiveBackground": "#16161B",
+        "borderColor":"#1E1E25"
+      }
+    },
+    "Window.border": "4,4,4,4,1E1E25",
+    "Component": {
+      "focusWidth": "1",
+      "focusColor": "#484A58",
+      "focusedBorderColor": "#484A58",
+      "borderColor": "#1E1E25"
+    },
+
+    "Button": {
+      "default": {
+        "startBackground": "#404F76",
+        "endBackground": "#404F76",
+        "focusedBorderColor": "#484A58",
+        "focusColor": "#1E1E25",
+        "foreground": "#1E1E25"
+      },
+      "startBackground": "#1E1E25",
+      "endBackground": "#1E1E25",
+      "focusedBorderColor": "#1E1E25",
+      "disabledBorderColor": "#1E1E25",
+      "borderColor": "#1E1E25"
+    }
+  }
+}
