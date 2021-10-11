@@ -2,7 +2,7 @@
   <id>com.github.cyberquarks.intellij.theme.enki</id>
   <name>Enki Theme</name>
   <version>0.1</version>
-  <vendor email="" url="https://gitub.com/cyberquarks">Cyberquarks</vendor>
+  <vendor email="" url="https://github.com/cyberquarks">Cyberquarks</vendor>
 
   <description><![CDATA[
         This is a work-in-progress IntelliJ theme based on Enki theme (https://github.com/enkia/enki-theme)
