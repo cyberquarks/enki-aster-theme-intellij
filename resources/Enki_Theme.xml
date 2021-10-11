@@ -9,6 +9,32 @@
         <option name="INDENT_GUIDE" value="23232A" />
         <option name="SELECTED_INDENT_GUIDE" value="23232A" />
         <option name="GUTTER_BACKGROUND" value="19191F" />
+        <option name="SELECTION_BACKGROUND" value="282B39" />
+        <option name="SELECTED_TEARLINE_COLOR" value="4F4F5E" />
+        <option name="TEARLINE_COLOR" value="23232A" />
+        <option name="LINE_NUMBERS_COLOR" value="51546A" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="51546A" />
+        <option name="FILESTATUS_ADDED" value="0ACE9E" />
+        <option name="FILESTATUS_COPIED" value="0ACE9E" />
+        <option name="FILESTATUS_DELETED" value="6272a4" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="0ACE9E" />
+        <option name="FILESTATUS_IDEA_SVN_REPLACED" value="0ACE9E" />
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="0ACE9E" />
+        <option name="FILESTATUS_MERGED" value="0ACE9E" />
+        <option name="FILESTATUS_MODIFIED" value="0ACE9E" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="0ACE9E" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="0ACE9E" />
+        <option name="FILESTATUS_RENAMED" value="0ACE9E" />
+        <option name="FILESTATUS_UNKNOWN" value="0ACE9E" />
+        <option name="FILESTATUS_addedOutside" value="0ACE9E" />
+        <option name="FILESTATUS_changelistConflict" value="0ACE9E" />
+        <option name="FILESTATUS_modifiedOutside" value="0ACE9E" />
     </colors>
     <attributes>
         <option name="BAD_CHARACTER">
@@ -480,6 +506,13 @@
             <value>
                 <option name="FOREGROUND" value="9D599D" />
                 <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="479AC4" />
+                <option name="EFFECT_COLOR" value="479AC4" />
+                <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option baseAttributes="TEXT" name="DEFAULT_IDENTIFIER" />
