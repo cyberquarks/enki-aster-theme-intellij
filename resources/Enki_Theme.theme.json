@@ -26,12 +26,11 @@
       "selectedForeground": "#ACB0D0",
       "selectedBackground": "#ACB0D0",
       "inactiveMaskColor": "#16161B",
-
+      "inactiveUnderlineColor" : "#ffffff",
       "underlineColor": "#ACB0D0",
       "underlineHeight": 2,
-
       "underlinedTabBackground": "#16161B",
-      "inactiveColoredFileBackground": "#00000000",
+      "inactiveColoredFileBackground": "#16161B",
       "borderColor":"#1E1E25"
     },
     "SidePanel.background" : "#19191F",
@@ -71,6 +70,7 @@
       "disabledBorderColor": "#1E1E25",
       "borderColor": "#1E1E25"
     },
+    "WelcomeScreen.borderColor" : "#1E1E25",
     "Window.border": "0,0,0,0,#1E1E25",
     "Borders.color": "#1E1E25",
     "Borders.ContrastBorderColor": "#1E1E25",

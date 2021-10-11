@@ -16,6 +16,6 @@
   <idea-version since-build="191.0"/>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="6aab2d2f-f020-451d-bf1e-5c49bd587442" path="/Enki_Theme.theme.json"/>
+    <themeProvider id="f39ea7a2-68d1-4472-b04a-06044040d2ef" path="/Enki_Theme.theme.json"/>
   </extensions>
 </idea-plugin>
