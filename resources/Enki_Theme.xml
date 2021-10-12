@@ -304,15 +304,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="696c7e" />
+      </value>
+    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="754200" />
-      </value>
-    </option>
-    <option name="CSS.COMMENT">
-      <value>
-        <option name="FOREGROUND" value="23232a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
@@ -337,7 +336,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="68e868" />
+        <option name="FOREGROUND" value="ace9e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1798,10 +1797,6 @@
         <option name="FOREGROUND" value="6189bb" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="696c7e" />
-      </value>
-    </option>
+    <option name="CSS.COMMENT" baseAttributes="HTML_COMMENT" />
   </attributes>
 </scheme>
