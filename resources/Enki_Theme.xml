@@ -248,6 +248,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="696c7e" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -280,7 +285,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="696c7e" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
@@ -290,7 +295,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="FOREGROUND" value="696c7e" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -837,7 +842,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="23232a" />
+        <option name="FOREGROUND" value="51546a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1791,6 +1796,11 @@
     <option name="YAML_TEXT">
       <value>
         <option name="FOREGROUND" value="6189bb" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="696c7e" />
       </value>
     </option>
   </attributes>
