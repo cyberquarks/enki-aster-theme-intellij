@@ -282,7 +282,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="68e868" />
+        <option name="FOREGROUND" value="ace9e" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -307,7 +307,7 @@
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="6ae96a" />
+        <option name="FOREGROUND" value="17bd97" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
