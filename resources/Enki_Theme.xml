@@ -24,6 +24,7 @@
     <option name="FILESTATUS_addedOutside" value="ace9e" />
     <option name="FILESTATUS_changelistConflict" value="ace9e" />
     <option name="FILESTATUS_modifiedOutside" value="ace9e" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="1d1e27" />
     <option name="GUTTER_BACKGROUND" value="19191f" />
     <option name="INDENT_GUIDE" value="23232a" />
     <option name="LINE_NUMBERS_COLOR" value="51546a" />
@@ -650,6 +651,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="9395b3" />
+        <option name="BACKGROUND" value="1d1e27" />
+      </value>
+    </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c7c7ff" />
@@ -889,7 +896,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="273627" />
+        <option name="BACKGROUND" value="1d1e27" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -1704,7 +1711,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a3f10" />
+        <option name="BACKGROUND" value="1d1e27" />
         <option name="EFFECT_COLOR" value="afbad4" />
         <option name="ERROR_STRIPE_COLOR" value="ffff00" />
         <option name="EFFECT_TYPE" value="1" />
@@ -1797,6 +1804,5 @@
         <option name="FOREGROUND" value="6189bb" />
       </value>
     </option>
-    <option name="CSS.COMMENT" baseAttributes="HTML_COMMENT" />
   </attributes>
 </scheme>
