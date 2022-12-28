@@ -5,17 +5,30 @@
   <vendor email="" url="https://github.com/cyberquarks">Cyberquarks</vendor>
 
   <description><![CDATA[
-        This is a work-in-progress IntelliJ theme based on Enki theme (https://github.com/enkia/enki-theme)
+This is a work-in-progress IntelliJ theme based on Enki theme (https://github.com/enkia/enki-theme)
     ]]></description>
 
   <change-notes><![CDATA[
-        This is a work-in-progress IntelliJ theme based on Enki theme (https://github.com/enkia/enki-theme)
+This is a work-in-progress IntelliJ theme based on Enki theme (https://github.com/enkia/enki-theme)
     ]]>
   </change-notes>
 
-  <idea-version since-build="191.0"/>
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
 
   <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
     <themeProvider id="f39ea7a2-68d1-4472-b04a-06044040d2ef" path="/Enki_Theme.theme.json"/>
   </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
 </idea-plugin>
